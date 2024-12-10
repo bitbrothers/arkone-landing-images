@@ -1200,7 +1200,7 @@ Sarah Blake (CTO, DataFast) has scheduled a call for Wednesday at 3:00 PM PST. G
 ----------
 
 ### **Use Case 4: Marketing - Campaign Launch**
-
+![launch](final/campaign_launch_pied_piper.gif)
 **[Platform: Slack to Marketing Team, Email to Subscribers]**
 
 **Su (Slack to Marketing Team):**  
@@ -1258,7 +1258,7 @@ Pied Piper
 ----------
 
 ### **Use Case 5: Operations - Vendor Management**
-
+![vendor](final/operations_vendor_management_pied_piper.gif)
 **[Platform: Email to Vendor, Teams to Procurement Manager]**
 
 **Su (Email to Vendor):**  
@@ -1313,7 +1313,7 @@ Yes, Su. Schedule the meeting for Thursday at 2:00 PM PST.
 ----------
 
 ### **Use Case 1: Risk Management - Loan Risk Assessment**
-
+![risk](final/risk_management_loan_risk_assessment_gnb.gif)
 **[Platform: Teams Notifications, Email to Risk Manager]**
 
 **Su (Teams to Risk Manager, Marshall Eriksen):**  
@@ -1361,7 +1361,7 @@ Thanks, Su. I’ve reviewed the report. Please schedule a meeting with the under
 ----------
 
 ### **Use Case 2: Customer Service - Account Issue Resolution**
-
+![customer](final/customer_service_account_issue_resolution_gnb.gif)
 **[Platform: Email to Customer, Teams to Customer Support Manager]**
 
 **Su (Email to Customer):**  
@@ -1406,7 +1406,7 @@ Yes, Su. Please escalate this to the audit team for review.
 ----------
 
 ### **Use Case 3: Loan Processing - Application Status Updates**
-
+![loan procoessing](final/loan_processing_application_status_updates_gnb.gif)
 **[Platform: Email to Customer, Teams to Loan Officer]**
 
 **Su (Email to Customer):**  
@@ -1451,7 +1451,7 @@ Yes, Su. Set the deadline for this Friday and notify her.
 ----------
 
 ### **Use Case 4: Marketing - Campaign for Premium Credit Cards**
-
+![campaign](final/campaign_for_premium_credit_cards_gnb.gif)
 **[Platform: Email to Customers, Slack to Marketing Team]**
 
 **Su (Slack to Marketing Team):**  
@@ -1509,7 +1509,7 @@ Goliath National Bank
 ----------
 
 ### **Use Case 5: Compliance - AML (Anti-Money Laundering) Alert**
-
+![antimoney](final/aml_antimoney_laundering_alert_gnb.gif)
 **[Platform: Teams to Compliance Manager, Email to Regulatory Team]**
 
 **Su (Teams to Compliance Manager, Arthur Hobbs):**  
@@ -1567,7 +1567,7 @@ Regulatory Team
 ----------
 
 ### **Use Case 1: Recruitment - Talent Scout Workflow**
-
+![ETA](final/recruitment_talent_scout_workflow_eta.gif)
 **[Platform: Slack Updates, Email to Talent Scouts, Teams to Recruitment Manager]**
 
 **Su (Slack to Talent Scouts):**  
@@ -1631,7 +1631,7 @@ Maya Patel has agreed to a meeting on Thursday at 3:00 PM EST. I’ve added it t
 ----------
 
 ### **Use Case 2: Client Management - Talent Profile Updates**
-
+![ETA](final/talent_profile_updates.gif)
 **[Platform: Slack Updates, Email to Clients, Teams to Account Manager]**
 
 **Su (Slack to Account Manager, Eric Murphy):**  
@@ -1686,7 +1686,7 @@ Yes, finalize and notify PR.
 ----------
 
 ### **Use Case 3: Performance Tracking - Analytics Report**
-
+![ETA](final/performance_tracking_analytics_report_eta.gif)
 **[Platform: Teams Notification to Analytics Manager, Email to Talent Managers]**
 
 **Su (Teams to Analytics Manager, Lloyd Lee):**  
@@ -1730,7 +1730,7 @@ Entourage Talent Agency
 ----------
 
 ### **Use Case 4: Employee Development - Training Program Enrollment**
-
+![ETA](final/employee_development_training_program_enrollment_eta.gif)
 **[Platform: Slack Notifications, Email to Employees, Teams to HR Manager]**
 
 **Su (Slack to HR Manager, Dana Gordon):**  
@@ -1831,7 +1831,7 @@ Entourage Talent Agency
 ----------
 
 ### **Use Case 1: Client Acquisition - High-Value Lead Outreach**
-
+![Pearson](final/highvalue_lead_outreach_ph.gif)
 **[Platform: Email to Potential Clients, Slack to Business Development Team]**
 
 **Su (Email to Potential Client, Harvey Specter):**  
@@ -1873,7 +1873,7 @@ Yes, Su. Include recent financials and legal challenges from public records.
 ----------
 
 ### **Use Case 2: Case Management - Contract Review Workflow**
-
+![PH](final/contract_review_workflow_ph.gif)
 **[Platform: Teams Notifications, Email to Client, Slack to Legal Team]**
 
 **Su (Teams to Legal Associate, Mike Ross):**  
@@ -1930,7 +1930,7 @@ The client has emphasized prioritizing the non-compete agreement in the revised 
 ----------
 
 ### **Use Case 3: Billing - Invoice Management and Payment Tracking**
-
+![PH](final/invoice_management_and_payment_tracking_ph.gif)
 **[Platform: Email to Client, Teams Notification to Billing Team]**
 
 **Su (Email to Client, Rachel Zane):**  
@@ -1975,7 +1975,7 @@ Yes, Su. Set a reminder for December 12.
 ----------
 
 ### **Use Case 4: Employee Development - CLE (Continuing Legal Education) Program Enrollment**
-
+![PH](final/cle_continuing_legal_education_program_enrollment.gif)
 **[Platform: Email to Employees, Slack to HR Team]**
 
 **Su (Email to Employees):**  
@@ -2024,7 +2024,7 @@ Yes, Su. Send a reminder next Monday.
 ----------
 
 ### **Use Case 5: Marketing - Client Success Stories Campaign**
-
+![PH](final/client_success_stories_campaign_ph.gif)
 **[Platform: Email to Clients, Slack to Marketing Team]**
 
 **Su (Slack to Marketing Team):**  
@@ -2069,7 +2069,7 @@ John Carter
 ----------
 
 ### **Use Case 1: Customer Support - Automated Issue Resolution Workflow**
-
+![automate](final/automated_issue_resolution_workflow_is.gif)
 **[Platform: Email to Client, Teams Notification to Support Team]**
 
 **Su (Email to Client, Jim Halpert at Dunder Mifflin):**  
@@ -2111,7 +2111,7 @@ Yes, Su. Close the case and log the resolution time for SLA tracking.
 ----------
 
 ### **Use Case 2: HR - Employee Attendance and Leave Management**
-
+![leave management](final/Employee_ attendance_and_leave_management.gif)
 **[Platform: Teams to HR Manager, Slack to Employees]**
 
 **Su (Slack to Employee, Sarah Patel):**  
@@ -2146,7 +2146,7 @@ Your leave request for December 27–30 has been approved. Enjoy your time off!
 ----------
 
 ### **Use Case 3: Operations - Task Allocation and Performance Reporting**
-
+![task](final/task_allocation_and_performance_reporting_is.gif)
 **[Platform: Slack to Operations Team, Email to Client, Teams to Operations Manager]**
 
 **Su (Slack to Operations Team):**  
@@ -2210,7 +2210,7 @@ Yes, Su. Schedule it for 2:00 PM tomorrow.
 ----------
 
 ### **Use Case 4: Client Relations - Upselling New Services**
-
+![client relations](final/client_relations_upselling_new_services_is.gif)
 **[Platform: Email to Client, Teams Notification to Account Manager]**
 
 **Su (Email to Client, Michael Scott at Dunder Mifflin):**  
@@ -2255,7 +2255,7 @@ Yes, Su. Highlight their key pain points and proposed solutions in the deck.
 ----------
 
 ### **Use Case 5: Training - Employee Skill Development**
-
+![skills](final/employee_skill_development_is.gif)
 **[Platform: Email to Employees, Slack to Training Manager]**
 
 **Su (Email to Employees):**  
@@ -2315,7 +2315,7 @@ Yes, Su. Send a reminder next Monday.
 ----------
 
 ### **Use Case 1: Student Engagement - Personalized Study Plans**
-
+![edtech](final/student_engagement_personalized_study_plans.gif)
 **[Platform: Email to Students, Slack to Academic Advisors]**
 
 **Su (Email to Student, Gabriella Montez):**  
@@ -2362,7 +2362,7 @@ Yes, Su. Include practice tests from the last semester's archive.
 ----------
 
 ### **Use Case 2: Course Management - Curriculum Updates**
-
+![cource](final/course_management_curriculum_updates.gif)
 **[Platform: Teams Notification to Faculty, Email to Students]**
 
 **Su (Teams to Faculty):**  
@@ -2406,7 +2406,7 @@ East High EdTech
 ----------
 
 ### **Use Case 3: Faculty Support - Scheduling Assistance**
-
+![scheduling](final/faculty_support_scheduling_assistance.gif)
 **[Platform: Teams Notifications, Slack to Faculty]**
 
 **Su (Teams to Faculty, Troy Bolton):**  
@@ -2440,7 +2440,7 @@ Best of luck with your lecture!
 ----------
 
 ### **Use Case 4: Parent Communication - Progress Reports**
-
+![progress](final/parent_communication_progress_reports.gif)
 **[Platform: Email to Parents, Teams Notification to Academic Advisors]**
 
 **Su (Email to Parent, Mrs. Bolton):**  
