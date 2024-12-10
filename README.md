@@ -2111,7 +2111,7 @@ Yes, Su. Close the case and log the resolution time for SLA tracking.
 ----------
 
 ### **Use Case 2: HR - Employee Attendance and Leave Management**
-![leave management](final/Employee_ attendance_and_leave_management.gif)
+![leave management](final/employee_attendance_and_leave_management.gif)
 **[Platform: Teams to HR Manager, Slack to Employees]**
 
 **Su (Slack to Employee, Sarah Patel):**  
