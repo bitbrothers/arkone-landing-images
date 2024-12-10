@@ -2534,3 +2534,222 @@ Analytics Assistant
 East High EdTech
 
 ----------
+
+
+---
+
+### **Use Case 1: Recruitment - Hiring Indian Talent**
+
+**[Platform: Teams to Recruitment Manager, Email to Candidates]**
+
+**Su (Teams to Recruitment Manager, Oscar Martinez):**  
+Hi Oscar,  
+
+I’ve shortlisted 10 candidates for the **Regional Sales Manager** position based on the job requirements and salary benchmarks. Key profiles include:  
+1. **Ananya Mehta** – 8 years in B2B sales with a proven record in the paper industry.  
+2. **Ravi Gupta** – 10 years in sales, expertise in setting up regional teams.  
+
+Would you like me to schedule interviews with these candidates?  
+
+---
+
+**Reply from Oscar Martinez (Teams):**  
+Sure, Su. Let’s go ahead with the interviews. And remind Michael we’re hiring *in India*. He once thought “remote” meant Scranton from his couch.  
+
+---
+
+**Su (Email to Candidate, Ananya Mehta):**  
+Subject: Interview Invitation – Regional Sales Manager  
+
+Dear Ananya,  
+
+We’re pleased to invite you for an interview for the **Regional Sales Manager** role at **Dunder Mifflin International**.  
+
+**Details:**  
+- **Date:** Thursday, December 14, 2024  
+- **Time:** 11:00 AM IST  
+- **Mode:** Virtual ([Join Here](https://joinus.team/dunder-mifflin/sales/interviews)).  
+
+Please confirm your availability by replying to this email.  
+
+Best regards,  
+Su  
+Recruitment Assistant  
+Dunder Mifflin International  
+
+---
+
+**Reply from Michael Scott (Teams):**  
+Su, make sure you add “must love paper” to the job description. It’s the essence of Dunder Mifflin.  
+
+---
+
+### **Use Case 2: Infrastructure Setup - Office Space Coordination**
+
+**[Platform: Email to Vendor, Teams Notification to Operations Team]**
+
+**Su (Email to Vendor, Bengaluru Workspaces Pvt. Ltd.):**  
+Subject: Office Space Requirements  
+
+Dear Team,  
+
+Dunder Mifflin International is setting up operations in Bengaluru, India, and requires office space for 200 employees. Key requirements include:  
+- **Location:** Whitefield, Bengaluru  
+- **Facilities:** Fully furnished with conference rooms and a cafeteria.  
+- **Lease Duration:** 3 years  
+
+Please share available options by Friday, December 8, 2024.  
+
+Best regards,  
+Su  
+Infrastructure Assistant  
+Dunder Mifflin International  
+
+---
+
+**Reply from Vendor (via email):**  
+Dear Su,  
+
+Thank you for reaching out. We have 3 properties matching your requirements. I’ll share detailed proposals by Friday.  
+
+Best regards,  
+Ramesh  
+
+---
+
+**Su (Teams to Operations Team, Kelly Kapoor):**  
+Hi Kelly,  
+
+Bengaluru Workspaces Pvt. Ltd. will provide office space proposals by Friday. I’ll consolidate their details for your review.  
+
+---
+
+**Reply from Kelly Kapoor (Teams):**  
+Su, just make sure the cafeteria has real coffee. If I get instant coffee like last time, it’s over.  
+
+---
+
+### **Use Case 3: Finance - Taxation and Banking Setup**
+
+**[Platform: Teams to Finance Manager, Email to Bank]**
+
+**Su (Teams to Finance Manager, Oscar Martinez):**  
+Hi Oscar,  
+
+Here’s the progress on financial setup for our India operations:  
+1. **Bank Account:** Application submitted to HDFC Bank.  
+2. **Tax Registration:** GST registration is underway; expected completion by December 15.  
+
+Would you like me to follow up with the tax consultant for an expedited process?  
+
+---
+
+**Reply from Oscar Martinez (Teams):**  
+Yes, Su. And make sure Kevin understands GST is not a sandwich tax.  
+
+---
+
+**Su (Email to Bank, HDFC Bank Relationship Manager):**  
+Subject: Bank Account Setup for Dunder Mifflin International  
+
+Dear Sunita,  
+
+We’re following up on the corporate account application for **Dunder Mifflin International**. Could you confirm the expected completion date?  
+
+Best regards,  
+Su  
+Finance Assistant  
+Dunder Mifflin International  
+
+---
+
+**Reply from Bank (via email):**  
+Dear Su,  
+
+Your corporate account application is in the final review stage and should be completed by December 12.  
+
+Best regards,  
+Sunita  
+
+---
+
+**Su (Teams to Finance Manager):**  
+Hi Oscar,  
+
+HDFC Bank confirmed the corporate account setup will be completed by December 12. I’ll notify you once it’s finalized.  
+
+---
+
+### **Use Case 4: HR Onboarding - Employee Orientation**
+
+**[Platform: Email to Employees, Teams Notification to HR Team]**
+
+**Su (Email to New Hire, Priya Sharma):**  
+Subject: Welcome to Dunder Mifflin International  
+
+Dear Priya,  
+
+Welcome to **Dunder Mifflin International**! Your onboarding session is scheduled for:  
+- **Date:** Monday, December 18, 2024  
+- **Time:** 10:00 AM IST  
+- **Location:** Virtual ([Join Here](https://dunder-mifflin.arkone.ai/hr/onboarding-session)).  
+
+Please upload your joining documents here: [https://dunder-mifflin.arkone.ai/hr/document-upload](https://dunder-mifflin.arkone.ai/hr/document-upload).  
+
+Best regards,  
+Su  
+HR Assistant  
+Dunder Mifflin International  
+
+---
+
+**Reply from HR Manager, Angela Martin (Teams):**  
+Su, make sure onboarding materials are strict and professional. Dwight still tries to “train” new hires in beet farming ethics.  
+
+---
+
+### **Use Case 5: Compliance - Local Regulatory Approvals**
+
+**[Platform: Email to Legal Consultant, Teams to Compliance Manager]**
+
+**Su (Email to Legal Consultant, Ramesh & Partners):**  
+Subject: Regulatory Approvals for GCC Operations  
+
+Dear Team,  
+
+Could you provide updates on the status of regulatory approvals for our Indian operations? Specifically:  
+1. **Shop & Establishment License**  
+2. **Labor Law Compliance Registration**  
+
+Let us know if additional documents are required.  
+
+Best regards,  
+Su  
+Compliance Assistant  
+Dunder Mifflin International  
+
+---
+
+**Reply from Consultant (via email):**  
+Dear Su,  
+
+The **Shop & Establishment License** is approved, and the **Labor Law Compliance Registration** is in process. Expected completion by December 20.  
+
+Best regards,  
+Ramesh  
+
+---
+
+**Su (Teams to Compliance Manager, Angela Martin):**  
+Hi Angela,  
+
+The Shop & Establishment License for our India operations is approved, and the Labor Law Compliance Registration is on track for December 20.  
+
+Would you like me to archive the documents in our compliance portal?  
+
+---
+
+**Reply from Angela Martin (Teams):**  
+Yes, Su. And make sure the portal has restricted access. Dwight thinks everything is a "secret file."  
+
+---
