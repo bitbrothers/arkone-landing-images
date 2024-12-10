@@ -2753,3 +2753,199 @@ Would you like me to archive the documents in our compliance portal?
 Yes, Su. And make sure the portal has restricted access. Dwight thinks everything is a "secret file."  
 
 ---
+### **Use Case 6: IT Setup - Infrastructure and Access Management**
+
+**[Platform: Email to IT Vendor, Teams Notification to IT Team]**
+
+**Su (Email to IT Vendor, TechWorks Solutions):**  
+Subject: IT Infrastructure Setup for Dunder Mifflin International  
+
+Dear TechWorks Team,  
+
+We require the following for our Bengaluru office setup:  
+1. 200 laptops preloaded with company-approved software.  
+2. Secure Wi-Fi and VPN access for remote work.  
+3. Server setup for internal data storage.  
+
+Please confirm delivery timelines and installation schedule: [https://it.arkone.ai/dunder-mifflin/setup/timeline](https://it.arkone.ai/dunder-mifflin/setup/timeline).  
+
+Best regards,  
+Su  
+IT Assistant  
+Dunder Mifflin International  
+
+---
+
+**Reply from Vendor (via email):**  
+Dear Su,  
+
+Thank you for sharing the details. Laptops can be delivered by December 15, and the server setup will be completed by December 20.  
+
+Best regards,  
+Ravi  
+
+---
+
+**Su (Teams to IT Team, Andy Bernard):**  
+Hi Andy,  
+
+TechWorks confirmed delivery of laptops by December 15 and server setup by December 20. Would you like me to schedule a connectivity test post-installation?  
+
+---
+
+**Reply from Andy Bernard (Teams):**  
+Yes, Su. Also, please ensure there’s no “unlimited admin rights” on those laptops this time. Kevin installed a game on the server last time and crashed everything.  
+
+---
+
+**Reply from Michael Scott (Teams):**  
+Su, can you make sure all the laptops come preloaded with Minesweeper? That’s where real IT strategy starts.  
+
+---
+
+**Reply from Dwight Schrute (Teams):**  
+Incorrect, Michael. Real IT strategy starts with *security*. Su, ensure each laptop is configured with beet-resistant encryption.  
+
+---
+
+### **Use Case 7: Vendor Management - Procurement and Evaluation**
+
+**[Platform: Email to Vendor, Teams to Procurement Manager]**
+
+**Su (Email to Vendor, OfficeSupplies India Pvt. Ltd.):**  
+Subject: Procurement Request for Office Supplies  
+
+Dear Team,  
+
+We’re looking to procure the following supplies for our Bengaluru office:  
+- 100 desks and ergonomic chairs.  
+- Stationery kits for 200 employees.  
+- Conference room equipment (projectors and whiteboards).  
+
+Please submit your proposal here: [https://vendors.arkone.ai/dunder-mifflin/interest](https://vendors.arkone.ai/dunder-mifflin/interest).  
+
+Best regards,  
+Su  
+Vendor Management Assistant  
+Dunder Mifflin International  
+
+---
+
+**Reply from Vendor (via email):**  
+Dear Su,  
+
+We’ve attached a detailed quote for your review. Let us know if you’d like any modifications.  
+
+Best regards,  
+Kiran  
+
+---
+
+**Su (Teams to Procurement Manager, Angela Martin):**  
+Hi Angela,  
+
+OfficeSupplies India has submitted their quote. Would you like me to compare it with previous vendors or schedule a call with them?  
+
+---
+
+**Reply from Angela Martin (Teams):**  
+Yes, Su. Compare their prices with Carter Supplies, and make sure there’s no glitter pen nonsense this time.  
+
+---
+
+**Reply from Jim Halpert (Teams):**  
+Su, just make sure you don’t order desks with wheels. Last time, Dwight turned one into a “mobile command center.”  
+
+---
+
+**Reply from Kelly Kapoor (Teams):**  
+Ugh, Su, can you confirm the chairs are Instagram-worthy? No one wants a boring office vibe.  
+
+---
+
+### **Use Case 8: Employee Engagement - Welcome Kits and Onboarding Experience**
+
+**[Platform: Teams Notification to HR Team, Email to Employees]**
+
+**Su (Teams to HR Team, Phyllis Vance):**  
+Hi Phyllis,  
+
+Welcome kits for new hires are ready to be dispatched. Each kit includes:  
+- Dunder Mifflin branded notebook and pen.  
+- A welcome letter signed by the leadership team.  
+- A coffee mug (no “World’s Best Boss” branding, per Angela’s instructions).  
+
+Would you like me to send an email to the new hires about tracking their kits?  
+
+---
+
+**Reply from Phyllis Vance (Teams):**  
+Yes, Su. And let them know they can contact me if they have onboarding questions.  
+
+---
+
+**Reply from Kevin Malone (Teams):**  
+Su, does the coffee mug come preloaded with coffee? Asking for a friend.  
+
+---
+
+**Reply from Michael Scott (Teams):**  
+Su, I’m still waiting for my welcome kit, and I’ve been here for 15 years. Can you fix that?  
+
+---
+
+**Reply from Dwight Schrute (Teams):**  
+Michael, you don’t need a kit. You have me. Also, Su, include a beet candy in each kit. It’s an excellent icebreaker.  
+
+---
+
+**Relevant Links:**  
+- Employee Onboarding Dashboard: [https://onboard.arkone.ai/dunder-mifflin](https://onboard.arkone.ai/dunder-mifflin)  
+- Document Upload Portal: [https://onboard.arkone.ai/dunder-mifflin/documents](https://onboard.arkone.ai/dunder-mifflin/documents)  
+
+---
+
+### **Use Case 9: Training & Development - Upskilling Employees**
+
+**[Platform: Email to Employees, Teams Notification to Training Team]**
+
+**Su (Email to Employees):**  
+Subject: Upskilling Program – Advanced Sales Strategies  
+
+Dear Team,  
+
+We’re launching a new **Advanced Sales Strategies** program designed to enhance your skills and align with Dunder Mifflin’s sales objectives.  
+
+**Details:**  
+- **Start Date:** January 8, 2025  
+- **Duration:** 4 weeks  
+- **Mode:** Online sessions and case studies.  
+
+Register here: [https://training.arkone.ai/dunder-mifflin/sales-strategies](https://training.arkone.ai/dunder-mifflin/sales-strategies).  
+
+Best regards,  
+Su  
+Training Assistant  
+Dunder Mifflin International  
+
+---
+
+**Reply from Jim Halpert (Teams):**  
+Su, can you add a session on “selling to difficult bosses”? Asking for a colleague.  
+
+---
+
+**Reply from Dwight Schrute (Teams):**  
+Jim, I’m an excellent boss. Su, please schedule a training session on “sales strategies for beet farming.”  
+
+---
+
+**Reply from Angela Martin (Teams):**  
+Su, ensure that no one skips these sessions. Attendance matters, unlike Jim’s jokes.  
+
+---
+
+**Reply from Kelly Kapoor (Teams):**  
+Sales strategies are cool, Su, but can we have a module on personal branding? That’s what really sells.  
+
+---
