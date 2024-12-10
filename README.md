@@ -1,5 +1,5 @@
 ### Use Case 1: **Slack - Recruitment Assistance**
-![AML Alert](final/AML%20(Anti-Money%20Laundering)%20Alert%20GNB.gif)
+![AML Alert](final/su_slack_chat.gif)
 
 **Michael Scott**: Hey Su, we need a sales rep who can bring in the big bucks. You know, like a paper-selling shark! 🦈  
 
@@ -24,6 +24,7 @@
 ---
 
 ### Use Case 2: **Teams - Leave Request Management**
+![AML Alert](final/teams_chat_with_pam_2.gif)
 #### <u>**Pam's Teams Chat Window**</u>
 
 **Pam Beesly**: Hi Su, I need to take next Friday off. Can you approve that?  
@@ -64,6 +65,7 @@
 ---
 
 ### Use Case 3:  **WhatsApp - Performance Feedback**
+![performance](final/su_whatsapp.gif)
 
 **Dwight Schrute**: Su, I want to evaluate Jim’s performance.
 
@@ -80,7 +82,7 @@
 ---
 
 ### **Script 1: Creating & Updating the Talent Pool (Dashboard Update via Teams)**
-
+![talent pool](final/creating_updating_the_talent_pool.gif)
 **[Platform: Microsoft Teams]**  
 
 **Jim Halpert:**  
@@ -98,7 +100,7 @@ Done. Five candidates have been flagged as “Office Supplies Experts” for you
 ---
 
 ### **Script 2: Candidate Segmentation (Dashboard Request via Slack)**
-
+![candidate](final/candidate_segmentation.gif)
 **[Platform: Slack]**  
 
 **Dwight Schrute:**  
@@ -116,7 +118,7 @@ Tags and notes added. They’re ready for your review on the Talent Pool dashboa
 ---
 
 ### **Script 3: Engagement with the Talent Community (Email Thread)**
-
+![talent community](final/engagement_with_the_talent_community_email_thread_2.gif)
 **[Platform: Email]**
 
 **Subject:** Exciting Sales Opportunities at Dunder Mifflin!  
@@ -156,7 +158,7 @@ Su
 ---
 
 ### **Script 4: Re-Engagement of Passive Candidates (Email Thread)**
-
+![Email](final/reengagement_of_passive_candidates_email_thread.gif)
 **[Platform: Email]**
 
 **Subject:** Let’s reconnect about exciting opportunities!  
@@ -196,7 +198,7 @@ Su
 ---
 
 ### **Script 5: Candidate Retargeting (Dashboard Alert via Teams)**
-
+![retargeting](final/candidate_retargeting_dashboard_alert_via_teams.gif)
 **[Platform: Microsoft Teams]**  
 
 **Pam Beesly:**  
@@ -239,7 +241,8 @@ Su
 
 ---
 
-### **Script 7: Proactive Talent Recommendations (Email)**  
+### **Script 7: Proactive Talent Recommendations (Email)**
+![procative](final/proactive_talent_recommendations_email.gif)
 **[Platform: Email]**
 
 **Subject:** Candidate Recommendations for Regional Sales Manager Role  
@@ -273,7 +276,8 @@ Michael
 
 ---
 
-### **Script 8: Regular Talent Pool Maintenance (Slack Notification)**  
+### **Script 8: Regular Talent Pool Maintenance (Slack Notification)**
+![pool](final/regular_talent_pool_maintenance_slack_notification.gif)
 **[Platform: Slack - Group Channel]**
 
 **Su:**  
@@ -326,7 +330,8 @@ Su
 
 ---
 
-### **Script 10: Engagement Metrics & Insights (Teams Dashboard Update)**  
+### **Script 10: Engagement Metrics & Insights (Teams Dashboard Update)**
+![Metrics](final/engagement_metrics_insights_teams_dashboard_update.gif)
 **[Platform: Microsoft Teams - Group Channel]**
 
 **Su:**  
@@ -357,7 +362,7 @@ Great work, Su. Please also share the conversion rates for candidates applying t
 ----------
 
 ### **Use Case 11: Invoice Capture and Data Entry**
-
+![invice](final/invoice_capture_and_data_entry.gif)
 **[Platform: Email to Vendor, Teams to AP Manager]**
 
 **Vendor Email:**  
@@ -386,7 +391,7 @@ It’s ready for validation. You can review the invoice here: [https://ap.arkone
 ----------
 
 ### **Use Case 12: Automated Validation**
-
+![automate](final/automated_validation.gif)
 **[Platform: Teams to AP Manager, Email to Vendor]**
 
 **Su (Teams to Pam Beesly):**  
@@ -418,7 +423,7 @@ Dunder Mifflin
 ----------
 
 ### **Use Case 13: Approval Workflow**
-
+![workflow](final/approval_workflow.gif)
 **[Platform: Teams to Approver, Email to Vendor]**
 
 **Su (Teams to Michael Scott):**  
@@ -448,7 +453,7 @@ Dunder Mifflin
 ----------
 
 ### **Use Case 14: Payment Scheduling**
-
+![payment](final/payment_scheduling.gif)
 **[Platform: Teams to AP Manager, Email to Vendor]**
 
 **Su (Teams to Pam Beesly):**  
@@ -475,7 +480,7 @@ Dunder Mifflin
 ----------
 
 ### **Use Case 15: Reconciliation & Reporting**
-
+![reconciliation](final/reconciliation_reporting.gif)
 **[Platform: Teams to AP Manager]**
 
 **Su (Teams to Pam Beesly):**  
@@ -508,7 +513,7 @@ Would you like me to prioritize follow-up on these?
 ----------
 
 ### **Use Case 16: Audit & Compliance**
-
+![audit](final/audit_compliance.gif)
 **[Platform: Email to AP Team]**
 
 **Su:**  
@@ -549,7 +554,7 @@ I can generate a detailed report for process refinement if needed.
 ----------
 
 ### **Use Case 17: Vendor Communication (Payment Confirmation)**
-
+![vendor](final/vendor_communication_payment_confirmation.gif)
 **[Platform: Email to Vendor]**
 
 **Su:**  
@@ -600,7 +605,7 @@ Dunder Mifflin
 ----------
 
 ### **Use Case 18: Offer Letter Acceptance**
-
+![offer letter](final/offer_letter_acceptance.gif)
 **[Platform: Email to Candidate, Teams to HR Manager]**
 
 **Su (Email to Candidate):**  
@@ -648,7 +653,7 @@ Thanks, Su. Please go ahead and draft the first-day agenda.
 ----------
 
 ### **Use Case 19: Document Collection & Verification**
-
+![document collection](final/document_collection_verification.gif)
 **[Platform: Email to Candidate, Teams to HR Manager]**
 
 **Su (Email to Candidate):**  
@@ -694,7 +699,7 @@ Perfect. Let’s proceed with the verification.
 ----------
 
 ### **Use Case 20: Company Policy Introduction**
-
+![policy](final/company_policy_introduction.gif)
 **[Platform: Slack to New Hire]**
 
 **Su (Slack Message to Mark Thompson):**  
@@ -723,7 +728,7 @@ That’s great to hear, Mark! I’ve logged your completion. If you have any fur
 ----------
 
 ### **Use Case 21: Equipment and Workspace Setup**
-
+![workspace setup](final/equipment_and_workspace_setup.gif)
 **[Platform: Teams to IT Team, Email to New Hire]**
 
 **Su (Teams to IT Team):**  
@@ -778,7 +783,7 @@ Dunder Mifflin
 ----------
 
 ### **Use Case 22: Feedback Collection & Optimization**
-
+![feedback collection](final/feedback_collection_optimization.gif)
 **[Platform: Slack Message to New Hire, Email to HR Manager]**
 
 **Su (Slack to Mark Thompson):**  
@@ -824,7 +829,7 @@ Dunder Mifflin
 
 
 ### **Use Case 23: Vendor Lead Generation**
-
+![vender lead generation](final/vendor_lead_generation.gif)
 **[Platform: Email to Potential Vendors, Teams Notifications to Procurement Team]**
 
 **Su (Email to Potential Vendor):**  
@@ -873,7 +878,7 @@ Yes, Su. Prioritize and send us the evaluation report.
 ----------
 
 ### **Use Case 24: Vendor Evaluation and Selection**
-
+![vendor evaluation](final/vendor_evaluation_and_selection.gif)
 **[Platform: Email to Vendor, Teams Notifications to Procurement Team]**
 
 **Su (Teams to Procurement Team):**  
@@ -939,7 +944,7 @@ Dunder Mifflin
 ----------
 
 ### **Use Case 25: Vendor Contracting**
-
+![contract](final/vendor_contracting.gif)
 **[Platform: Email to Vendor, Teams Notifications to Procurement Team]**
 
 **Su (Email to Vendor):**  
@@ -987,7 +992,7 @@ Yes, Su. Prepare the purchase order.
 ----------
 
 ### **Use Case 26: Post-Onboarding Vendor Management**
-
+![post onboarding](final/postonboarding_vendor_management.gif)
 **[Platform: Email to Vendor, Teams Notification to Procurement Team]**
 
 **Su (Email to Vendor):**  
@@ -1086,7 +1091,7 @@ Pied Piper
 ----------
 
 ### **Use Case 2: HR - Employee Onboarding**
-
+![onboaring employee](final/employee_onboarding_pied_piper.gif)
 **[Platform: Email to New Hire, Teams to HR Manager, Slack Welcome Message]**
 
 **Su (Email to New Hire, Monica Hall):**  
@@ -1141,7 +1146,7 @@ Feel free to reach out and say hi.
 ----------
 
 ### **Use Case 3: Sales - Lead Prioritization and Outreach**
-
+![lead](final/lead_prioritization_and_outreach_pied_piper.gif)
 **[Platform: Email to Lead, Teams to Sales Manager, Slack to Sales Team]**
 
 **Su (Teams to Sales Manager, Gilfoyle):**  
@@ -2481,7 +2486,7 @@ Yes, Su. Confirm the meeting and notify Mrs. Bolton.
 ----------
 
 ### **Use Case 5: Performance Analytics - Student Insights**
-
+![Edtech](final/performance_analytics_student_insights.gif)
 **[Platform: Teams Notifications, Email to Faculty]**
 
 **Su (Teams to Principal, Mr. Sharp):**  
