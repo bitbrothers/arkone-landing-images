@@ -1,4 +1,5 @@
 ### Use Case 1: **Slack - Recruitment Assistance**
+![AML Alert](final/AML%20(Anti-Money%20Laundering)%20Alert%20GNB.gif)
 
 **Michael Scott**: Hey Su, we need a sales rep who can bring in the big bucks. You know, like a paper-selling shark! 🦈  
 
