@@ -6,10 +6,11 @@ DIR=$(pwd)
 # Loop through each GIF file in the directory
 for FILE in *.gif; do
     # Generate a new name:
-    # 1. Convert spaces to underscores
-    # 2. Remove parentheses and special characters
-    # 3. Convert to lowercase
-    NEW_NAME=$(echo "$FILE" | tr ' ' '_' | tr -d '()&' | tr '[:upper:]' '[:lower:]')
+    # 1. Replace spaces with underscores
+    # 2. Remove special characters including '-' and '&'
+    # 3. Replace double underscores with a single underscore
+    # 4. Convert to lowercase
+    NEW_NAME=$(echo "$FILE" | tr ' ' '_' | tr -d '()-&' | sed 's/__/_/g' | tr '[:upper:]' '[:lower:]')
 
     # Rename the file if the new name differs from the current name
     if [ "$FILE" != "$NEW_NAME" ]; then
