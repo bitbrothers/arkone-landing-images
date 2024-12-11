@@ -1780,6 +1780,7 @@ Sophia
 
 ----------
 
+#
 ### **Use Case 5: Marketing - Campaign for New Talent Recruitment**
 
 **[Platform: Email to Prospective Talent, Slack to Marketing Team]**
@@ -1787,13 +1788,33 @@ Sophia
 **Su (Slack to Marketing Team):**  
 Hi Team,
 
-The **“Join the Entourage” Recruitment Campaign** is ready for launch! 🎉
+The “Join the Entourage” Recruitment Campaign is ready for launch! 🎉
 
--   **Goal:** Attract 100 new talents by Q2 2025.
--   **Channels:** Instagram, LinkedIn, Email.
--   **Target Audience:** Influencers and budding actors.
+**Goal:** Attract 100 new talents by Q2 2025.  
+**Channels:** Instagram, LinkedIn, Email.  
+**Target Audience:** Influencers and budding actors.
 
 Track campaign performance here: [https://eta.arkone.ai/campaign/join-the-entourage](https://eta.arkone.ai/campaign/join-the-entourage).
+
+----------
+
+**Reply from Kelly Kapoor (Slack):**  
+This is amazing, Su! But can we add TikTok to the channels? That’s where the real influencers are.
+
+----------
+
+**Reply from Jim Halpert (Slack):**  
+Su, how do we make sure the “budding actors” aren’t just Michael’s improv buddies again? We need some screening questions.
+
+----------
+
+**Reply from Angela Martin (Slack):**  
+Su, let’s ensure the LinkedIn posts are professional. Last time, someone added a hashtag that was… questionable.
+
+----------
+
+**Reply from Ryan Howard (Slack):**  
+Love it. Su, make sure Instagram posts include dynamic reels. Static posts are dead.
 
 ----------
 
@@ -1802,15 +1823,15 @@ Subject: Join the Entourage Talent Family
 
 Dear Alex Martinez,
 
-Are you ready to take your career to the next level? Entourage Talent Agency is now onboarding new talent for 2025.
+Are you ready to take your career to the next level? **Entourage Talent Agency** is now onboarding new talent for 2025.
 
-Why join us?
+**Why join us?**
 
 -   Access to top-tier brand collaborations.
 -   Professional development opportunities.
 -   360° talent management.
 
-Apply here: [https://eta.arkone.ai/apply](https://eta.arkone.ai/apply).
+**Apply here:** [https://eta.arkone.ai/apply](https://eta.arkone.ai/apply).
 
 Best regards,  
 Su  
@@ -1818,6 +1839,56 @@ Marketing Assistant
 Entourage Talent Agency
 
 ----------
+
+**Reply from Alex Martinez (via email):**  
+Dear Su,
+
+Thank you for reaching out! I’m very interested and have applied via the link. Could you share more details about the onboarding process?
+
+Best regards,  
+Alex
+
+----------
+
+**Su (Reply to Alex Martinez via email):**  
+Dear Alex,
+
+Thank you for applying! Our onboarding process involves:
+
+1.  A virtual introduction session.
+2.  Talent assessment and portfolio review.
+3.  Matching opportunities with your skills and aspirations.
+
+You’ll receive further details within 48 hours. Let me know if you have any questions.
+
+Best regards,  
+Su  
+Marketing Assistant  
+Entourage Talent Agency
+
+----------
+
+**Reply from another prospect (via email):**  
+Dear Su,
+
+Do you have opportunities for behind-the-scenes roles? I’m more interested in production and talent management.
+
+Best regards,  
+Samantha Lee
+
+----------
+
+**Su (Reply to Samantha Lee via email):**  
+Dear Samantha,
+
+Thank you for your interest! Yes, we have roles available in production and talent management. Please visit [https://eta.arkone.ai/roles](https://eta.arkone.ai/roles) to explore opportunities and submit your application.
+
+Looking forward to your application!
+
+Best regards,  
+Su  
+Marketing Assistant  
+Entourage Talent Agency
 
 ----------
 
