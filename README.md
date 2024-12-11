@@ -1047,7 +1047,7 @@ Yes, Su. Let’s move forward with the RFP.
 ----------
 
 ### **Use Case 1: Engineering - Feature Release Workflow**
-
+![feature](final/engineering_feature_release_workflow.gif)
 **[Platform: Teams Notifications, Slack Updates, Email to Stakeholders]**
 
 **Su (Teams to Lead Developer, Dinesh Chugtai):**  
