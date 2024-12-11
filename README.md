@@ -372,8 +372,9 @@ Good work, Su. Just ensure that none of the archived profiles had beet-related e
 
 ---
 
-### **Script 9: Automated Matching & Notifications (WhatsApp)**  
-**[Platform: WhatsApp]**
+### **Script 9: Automated Matching & Notifications (Email)**
+![notification](final/automated_matching_notifications.gif)
+**[Platform: Email]**
 
 **Message to Candidate:**  
 Hi Lisa Green,  
