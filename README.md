@@ -217,10 +217,10 @@ Done. Personalized messages inviting them to apply have been sent. You can view 
 
 
 ### **Use Case 6: Engagement Through Events**
+![engagement](final/engagement_through_events.gif)
+**[Platform: Email (Candidate) & Microsoft Teams (HR Team)]**
 
-**[Platform: WhatsApp (Candidate) & Microsoft Teams (HR Team)]**
-
-**Su (WhatsApp to Candidate, Sarah Brown):**  
+**Su (Email to Candidate, Sarah Brown):**  
 Hi Sarah,
 
 We’re hosting a **Career Day** at our Scranton office! 🎉
@@ -242,7 +242,7 @@ Dunder Mifflin International
 
 ----------
 
-**Reply from Sarah Brown (via WhatsApp):**  
+**Reply from Sarah Brown (via Email):**  
 Hi Su,
 
 Thanks for the invite! I’m excited to attend. Could you share the agenda for the day?
@@ -252,7 +252,7 @@ Sarah
 
 ----------
 
-**Su (WhatsApp Reply to Sarah):**  
+**Su (Email Reply to Sarah):**  
 Hi Sarah,
 
 Here’s the agenda for Career Day:
@@ -269,7 +269,7 @@ Su
 
 ----------
 
-**Reply from Sarah Brown (via WhatsApp):**  
+**Reply from Sarah Brown (via Email):**  
 Thanks, Su! Looking forward to meeting the team and exploring opportunities.
 
 ----------
@@ -2682,7 +2682,7 @@ East High EdTech
 ---
 
 ### **Use Case 1: Recruitment - Hiring Indian Talent**
-
+![recruitment](final/recruitment_hiring_indian_talent.gif)
 **[Platform: Teams to Recruitment Manager, Email to Candidates]**
 
 **Su (Teams to Recruitment Manager, Oscar Martinez):**  
@@ -2728,7 +2728,7 @@ Su, make sure you add “must love paper” to the job description. It’s the e
 ---
 
 ### **Use Case 2: Infrastructure Setup - Office Space Coordination**
-
+![office](final/infrastructure_setup_office_space_coordination.gif)
 **[Platform: Email to Vendor, Teams Notification to Operations Team]**
 
 **Su (Email to Vendor, Bengaluru Workspaces Pvt. Ltd.):**  
@@ -2773,7 +2773,7 @@ Su, just make sure the cafeteria has real coffee. If I get instant coffee like l
 ---
 
 ### **Use Case 3: Finance - Taxation and Banking Setup**
-
+![taxation](final/finance_taxation.gif)
 **[Platform: Teams to Finance Manager, Email to Bank]**
 
 **Su (Teams to Finance Manager, Oscar Martinez):**  
@@ -2824,7 +2824,7 @@ HDFC Bank confirmed the corporate account setup will be completed by December 12
 ---
 
 ### **Use Case 4: HR Onboarding - Employee Orientation**
-
+![hr](final/it_setup_infrastructure_and_acess.gif)
 **[Platform: Email to Employees, Teams Notification to HR Team]**
 
 **Su (Email to New Hire, Priya Sharma):**  
@@ -2912,7 +2912,7 @@ Su
 
 ----------
 ### **Use Case 5: Compliance - Local Regulatory Approvals**
-
+![compliance](final/it_setup_infrastructure_and_acess.gif)
 **[Platform: Email to Legal Consultant, Teams to Compliance Manager]**
 
 **Su (Email to Legal Consultant, Ramesh & Partners):**  
@@ -2957,7 +2957,7 @@ Yes, Su. And make sure the portal has restricted access. Dwight thinks everythin
 
 ---
 ### **Use Case 6: IT Setup - Infrastructure and Access Management**
-
+![it](final/it_setup_infrastructure_and_acess.gif)
 **[Platform: Email to IT Vendor, Teams Notification to IT Team]**
 
 **Su (Email to IT Vendor, TechWorks Solutions):**  
@@ -3012,7 +3012,7 @@ Incorrect, Michael. Real IT strategy starts with *security*. Su, ensure each lap
 ---
 
 ### **Use Case 7: Vendor Management - Procurement and Evaluation**
-
+![vendor](final/vendor_management_procurement_and_evaluation.gif)
 **[Platform: Email to Vendor, Teams to Procurement Manager]**
 
 **Su (Email to Vendor, OfficeSupplies India Pvt. Ltd.):**  
@@ -3109,7 +3109,7 @@ Michael, you don’t need a kit. You have me. Also, Su, include a beet candy in 
 ---
 
 ### **Use Case 9: Training & Development - Upskilling Employees**
-
+![training](final/training_development_upskilling_employees.gif) 
 **[Platform: Email to Employees, Teams Notification to Training Team]**
 
 **Su (Email to Employees):**  
