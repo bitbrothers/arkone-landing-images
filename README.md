@@ -215,29 +215,101 @@ Done. Personalized messages inviting them to apply have been sent. You can view 
 
 ---
 
-### **Script 6: Engagement Through Events (WhatsApp & Teams)**
+
+### **Use Case 6: Engagement Through Events**
 
 **[Platform: WhatsApp (Candidate) & Microsoft Teams (HR Team)]**
 
-**Message to Candidates via WhatsApp:**  
-Hi Sarah Brown,  
+**Su (WhatsApp to Candidate, Sarah Brown):**  
+Hi Sarah,
 
-We’re hosting a Career Day at our Scranton office! Learn about our new product lines and meet our leadership team. RSVP now: [https://event.joinus.team/dunder-mifflin/career-day-2025](https://event.joinus.team/dunder-mifflin/career-day-2025).
+We’re hosting a **Career Day** at our Scranton office! 🎉
 
-Best,  
-Su,
-HR Manager 
-Dunder Mifflin
+**What’s in store?**
 
----
+-   Learn about our new product lines.
+-   Meet our leadership team.
+-   Explore career opportunities at Dunder Mifflin.
 
-**Post-Event Update via Teams:**  
-Hi Team,  
+RSVP now: [https://event.joinus.team/dunder-mifflin/career-day-2025](https://event.joinus.team/dunder-mifflin/career-day-2025).
 
-The Career Day event was a success. I’ve updated the Talent Pool with feedback and attendance data. 12 attendees expressed interest in exploring roles with us.  
+Looking forward to seeing you there!
 
-Best,  
+Best regards,  
 Su  
+HR Manager  
+Dunder Mifflin International
+
+----------
+
+**Reply from Sarah Brown (via WhatsApp):**  
+Hi Su,
+
+Thanks for the invite! I’m excited to attend. Could you share the agenda for the day?
+
+Best,  
+Sarah
+
+----------
+
+**Su (WhatsApp Reply to Sarah):**  
+Hi Sarah,
+
+Here’s the agenda for Career Day:
+
+-   **10:00 AM:** Welcome Address by Michael Scott
+-   **10:30 AM:** Product Demos and Q&A
+-   **12:00 PM:** Networking Lunch with Leadership
+-   **2:00 PM:** Career Opportunities Showcase
+
+Let me know if you have further questions. See you there!
+
+Best regards,  
+Su
+
+----------
+
+**Reply from Sarah Brown (via WhatsApp):**  
+Thanks, Su! Looking forward to meeting the team and exploring opportunities.
+
+----------
+
+**Su (Teams to HR Team Post-Event):**  
+Hi Team,
+
+The **Career Day** event was a success! Here’s a quick summary:
+
+-   **Total Attendees:** 50
+-   **Engagement:** 12 attendees expressed interest in exploring roles with us.
+-   **Top Feedback:** Great product presentations but requests for longer Q&A sessions.
+
+I’ve updated the Talent Pool with feedback and attendance data. You can review it here: [https://talent.joinus.team/dunder-mifflin/updates](https://talent.joinus.team/dunder-mifflin/updates).
+
+Best regards,  
+Su
+
+----------
+
+**Reply from Jim Halpert (Teams):**  
+Great work, Su! I think the lunch was the real winner. Pam says people loved Dwight’s beet salad story.
+
+----------
+
+**Reply from Angela Martin (Teams):**  
+Thanks, Su. Let’s ensure future events have more structured Q&A sessions. Feedback is key.
+
+----------
+
+**Reply from Michael Scott (Teams):**  
+Amazing work, Su! Did you include my _“World’s Best Boss” mug_ in the networking session photos? We should use those for marketing.
+
+----------
+
+**Reply from Kelly Kapoor (Teams):**  
+Career Day is awesome, but can we make the next one more Instagrammable? We need a photo booth with props like “Team Dunder!”
+
+----------
+ 
 
 ---
 
