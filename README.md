@@ -2828,29 +2828,89 @@ HDFC Bank confirmed the corporate account setup will be completed by December 12
 **[Platform: Email to Employees, Teams Notification to HR Team]**
 
 **Su (Email to New Hire, Priya Sharma):**  
-Subject: Welcome to Dunder Mifflin International  
+Subject: Welcome to Dunder Mifflin International
 
-Dear Priya,  
+Dear Priya,
 
-Welcome to **Dunder Mifflin International**! Your onboarding session is scheduled for:  
-- **Date:** Monday, December 18, 2024  
-- **Time:** 10:00 AM IST  
-- **Location:** Virtual ([Join Here](https://dunder-mifflin.arkone.ai/hr/onboarding-session)).  
+Welcome to **Dunder Mifflin International**! Your onboarding session is scheduled for:
 
-Please upload your joining documents here: [https://dunder-mifflin.arkone.ai/hr/document-upload](https://dunder-mifflin.arkone.ai/hr/document-upload).  
+-   **Date:** Monday, December 18, 2024
+-   **Time:** 10:00 AM IST
+-   **Location:** Virtual ([Join Here](https://dunder-mifflin.arkone.ai/hr/onboarding-session)).
+
+Please upload your joining documents here: [https://dunder-mifflin.arkone.ai/hr/document-upload](https://dunder-mifflin.arkone.ai/hr/document-upload).
+
+Let me know if you need any assistance.
 
 Best regards,  
 Su  
 HR Assistant  
-Dunder Mifflin International  
+Dunder Mifflin International
 
----
+----------
 
-**Reply from HR Manager, Angela Martin (Teams):**  
-Su, make sure onboarding materials are strict and professional. Dwight still tries to “train” new hires in beet farming ethics.  
+**Reply from Priya Sharma (via email):**  
+Dear Su,
 
----
+Thank you for the details! I’ve uploaded all my documents. Please confirm if they’ve been received.
 
+Best regards,  
+Priya
+
+----------
+
+**Su (Email Reply to Priya Sharma):**  
+Dear Priya,
+
+Thank you for uploading your documents. I’ve verified that all required files have been submitted successfully. We’re excited to welcome you to Dunder Mifflin!
+
+Looking forward to seeing you at the onboarding session.
+
+Best regards,  
+Su  
+HR Assistant  
+Dunder Mifflin International
+
+----------
+
+**Su (Teams to HR Team, Angela Martin):**  
+Hi Team,
+
+Priya Sharma has completed her document upload for onboarding. The session is confirmed for December 18, and materials have been shared with her.
+
+Would you like me to prepare a personalized welcome email from Michael Scott for added engagement?
+
+----------
+
+**Reply from Angela Martin (Teams):**  
+Su, make sure onboarding materials are strict and professional. Dwight still tries to “train” new hires in beet farming ethics.
+
+----------
+
+**Reply from Jim Halpert (Teams):**  
+Su, maybe Dwight’s beet farming session could be part of team-building activities? We can call it “Rooting for Success.”
+
+----------
+
+**Reply from Michael Scott (Teams):**  
+Su, add a slide to the onboarding deck titled “How to Spot the World’s Best Boss.” It’s important they recognize greatness.
+
+----------
+
+**Reply from Kelly Kapoor (Teams):**  
+Su, can we include a fashion section? First impressions are everything, and we’re representing Dunder Mifflin International here!
+
+----------
+
+**Su (Teams to Angela Martin):**  
+Hi Angela,
+
+Noted on keeping materials professional. I’ll ensure all team-building activities align with company policies. And I’ll politely decline Jim’s suggestion for a beet farming workshop.
+
+Best regards,  
+Su
+
+----------
 ### **Use Case 5: Compliance - Local Regulatory Approvals**
 
 **[Platform: Email to Legal Consultant, Teams to Compliance Manager]**
