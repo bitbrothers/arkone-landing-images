@@ -1854,7 +1854,7 @@ Sophia
 
 #
 ### **Use Case 5: Marketing - Campaign for New Talent Recruitment**
-
+![campign](final/campaign_for_new_talent_recruitment.gif)
 **[Platform: Email to Prospective Talent, Slack to Marketing Team]**
 
 **Su (Slack to Marketing Team):**  
