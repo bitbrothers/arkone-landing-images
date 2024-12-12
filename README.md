@@ -3067,70 +3067,141 @@ Ugh, Su, can you confirm the chairs are Instagram-worthy? No one wants a boring 
 
 ---
 
+----------
+
 ### **Use Case 8: Employee Engagement - Welcome Kits and Onboarding Experience**
 
 **[Platform: Teams Notification to HR Team, Email to Employees]**
 
 **Su (Teams to HR Team, Phyllis Vance):**  
-Hi Phyllis,  
+Hi Phyllis,
 
-Welcome kits for new hires are ready to be dispatched. Each kit includes:  
-- Dunder Mifflin branded notebook and pen.  
-- A welcome letter signed by the leadership team.  
-- A coffee mug (no “World’s Best Boss” branding, per Angela’s instructions).  
+Welcome kits for new hires are ready to be dispatched. Each kit includes:
 
-Would you like me to send an email to the new hires about tracking their kits?  
+-   **Dunder Mifflin branded notebook and pen.**
+-   **A welcome letter signed by the leadership team.**
+-   **A coffee mug** (no “World’s Best Boss” branding, per Angela’s instructions).
 
----
+Would you like me to send an email to the new hires about tracking their kits?
+
+----------
 
 **Reply from Phyllis Vance (Teams):**  
-Yes, Su. And let them know they can contact me if they have onboarding questions.  
+Yes, Su. And let them know they can contact me if they have onboarding questions. Also, ensure they get my email address in the welcome note.
 
----
+----------
 
 **Reply from Kevin Malone (Teams):**  
-Su, does the coffee mug come preloaded with coffee? Asking for a friend.  
+Su, does the coffee mug come preloaded with coffee? Asking for a friend.
 
----
+----------
 
 **Reply from Michael Scott (Teams):**  
-Su, I’m still waiting for my welcome kit, and I’ve been here for 15 years. Can you fix that?  
+Su, I’m still waiting for my welcome kit, and I’ve been here for 15 years. Can you fix that? Maybe add a “World’s Best Boss” mug for me while you’re at it.
 
----
+----------
 
 **Reply from Dwight Schrute (Teams):**  
-Michael, you don’t need a kit. You have me. Also, Su, include a beet candy in each kit. It’s an excellent icebreaker.  
+Michael, you don’t need a kit. You have me. Also, Su, include a beet candy in each kit. It’s an excellent icebreaker and a source of antioxidants.
 
----
+----------
 
-**Relevant Links:**  
-- Employee Onboarding Dashboard: [https://onboard.arkone.ai/dunder-mifflin](https://onboard.arkone.ai/dunder-mifflin)  
-- Document Upload Portal: [https://onboard.arkone.ai/dunder-mifflin/documents](https://onboard.arkone.ai/dunder-mifflin/documents)  
+**Reply from Kelly Kapoor (Teams):**  
+Su, can we add some cute stickers to the kit? People love that stuff for their laptops. It’s all about the _vibe_.
 
----
+----------
 
+**Reply from Angela Martin (Teams):**  
+Su, please ensure the welcome kits are dispatched on time. Also, Dwight, no one wants beet candy. Stick to professional items.
+
+----------
+
+**Su (Email to New Hires):**  
+**Subject:** Your Welcome Kit is On the Way
+
+Dear Team,
+
+We’re excited to welcome you to **Dunder Mifflin International**! Your personalized welcome kit is on its way.
+
+**What’s Inside?**
+
+-   A Dunder Mifflin branded notebook and pen.
+-   A welcome letter signed by the leadership team.
+-   A stylish coffee mug (just as practical as it is professional).
+
+You can track your kit here: [https://onboard.arkone.ai/dunder-mifflin/welcome-kit-tracking](https://onboard.arkone.ai/dunder-mifflin/welcome-kit-tracking).
+
+Feel free to reach out to **Phyllis Vance** at **[phyllis.vance@dunder-mifflin.com](mailto:phyllis.vance@dunder-mifflin.com)** if you have any questions about onboarding.
+
+Best regards,  
+Su  
+HR Assistant  
+Dunder Mifflin International
+
+----------
+
+**Reply from a New Hire (via email):**  
+Dear Su,
+
+Thank you for the update! I’ve tracked my kit, and it’s arriving tomorrow. Looking forward to starting this new journey.
+
+Best regards,  
+Ananya
+
+----------
+
+**Reply from another New Hire (via email):**  
+Dear Su,
+
+Thank you for the thoughtful kit! Quick question: Is the coffee mug microwave-safe?
+
+Best regards,  
+Ravi
+
+----------
+
+**Su (Reply to Ravi via email):**  
+Dear Ravi,
+
+Yes, the coffee mug is microwave-safe! Feel free to enjoy your coffee breaks without any concerns. Let me know if you have more questions.
+
+Best regards,  
+Su
+
+----------
 ### **Use Case 9: Training & Development - Upskilling Employees**
-![training](final/training_development_upskilling_employees.gif) 
+
 **[Platform: Email to Employees, Teams Notification to Training Team]**
 
 **Su (Email to Employees):**  
-Subject: Upskilling Program – Advanced Sales Strategies  
+**Subject:** Upskilling Program – Advanced Sales Strategies  
 
 Dear Team,  
 
-We’re launching a new **Advanced Sales Strategies** program designed to enhance your skills and align with Dunder Mifflin’s sales objectives.  
+We’re excited to announce the launch of our new **Advanced Sales Strategies** program, designed to enhance your skills and align with Dunder Mifflin’s sales objectives.  
 
 **Details:**  
 - **Start Date:** January 8, 2025  
 - **Duration:** 4 weeks  
 - **Mode:** Online sessions and case studies.  
 
-Register here: [https://training.arkone.ai/dunder-mifflin/sales-strategies](https://training.arkone.ai/dunder-mifflin/sales-strategies).  
+Please register here: [https://training.arkone.ai/dunder-mifflin/sales-strategies](https://training.arkone.ai/dunder-mifflin/sales-strategies).  
+
+Looking forward to your participation!  
 
 Best regards,  
 Su  
 Training Assistant  
 Dunder Mifflin International  
+
+---
+
+**Su (Teams to Training Team):**  
+Hi Team,  
+
+The **Advanced Sales Strategies** program is ready for launch. Registration is live, and the first session starts on January 8.  
+
+I’ll track registration and send reminders. Let me know if there are any additional modules you’d like to include.  
 
 ---
 
@@ -3140,7 +3211,7 @@ Su, can you add a session on “selling to difficult bosses”? Asking for a col
 ---
 
 **Reply from Dwight Schrute (Teams):**  
-Jim, I’m an excellent boss. Su, please schedule a training session on “sales strategies for beet farming.”  
+Jim, I’m an excellent boss. Su, please schedule a training session on “sales strategies for beet farming.” Every salesperson should know how to sell a superior product.  
 
 ---
 
@@ -3150,6 +3221,32 @@ Su, ensure that no one skips these sessions. Attendance matters, unlike Jim’s 
 ---
 
 **Reply from Kelly Kapoor (Teams):**  
-Sales strategies are cool, Su, but can we have a module on personal branding? That’s what really sells.  
+Sales strategies are cool, Su, but can we have a module on personal branding? That’s what really sells in this modern age.  
 
 ---
+
+**Reply from Michael Scott (Teams):**  
+Su, don’t forget to add “How to be the World’s Best Boss and Sell It” to the curriculum. It’s essential learning for everyone.  
+
+---
+
+**Reply from Phyllis Vance (Teams):**  
+Su, can you make sure there’s a session on handling difficult clients? Some of our regulars need more... let’s say, finesse.  
+
+---
+
+**Su (Reply to Training Team):**  
+Hi Team,  
+
+Thank you for the suggestions! Here’s the updated outline:  
+1. **Core Modules:** Advanced Sales Strategies, Handling Difficult Clients.  
+2. **Optional Modules:** Personal Branding, Beet Farming Sales Techniques (pending approval).  
+3. **Guest Session:** “Selling to Difficult Bosses” by Jim Halpert (satire-based).  
+
+I’ll finalize the curriculum and notify participants.  
+
+Best regards,  
+Su  
+
+---
+
