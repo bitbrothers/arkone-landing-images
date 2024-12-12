@@ -3250,3 +3250,197 @@ Su
 
 ---
 
+### **Use Case 1: Initial Team Setup - Technical Roles**
+
+**[Platform: Email to Richard Hendricks (CEO), Slack Notification to ArkOne Hiring Team]**
+
+**Su (Email to Richard Hendricks):**  
+**Subject:** Ready to Build Your Dream Tech Team in 7 Days  
+
+Dear Richard,  
+
+ArkOne is excited to support **Pied Piper** in scaling its operations. Here’s the plan to hire your core technical team within **7 days**:  
+
+**Roles Identified:**  
+- Senior Software Engineer (Backend, Python/Go).  
+- Frontend Developer (React.js).  
+- DevOps Engineer (AWS expertise).  
+
+We’ve pre-screened 15 candidates from our talent pool. Would you like to review their profiles or proceed with interviews directly?  
+
+Please let me know how you’d like to proceed.  
+
+Best regards,  
+Su  
+Team Building Specialist  
+ArkOne  
+
+---
+
+**Reply from Richard Hendricks (via email):**  
+Hi Su,  
+
+Thanks for the quick turnaround! Could you send me the top 3 profiles for each role? Let’s schedule interviews with candidates by tomorrow.  
+
+Best,  
+Richard  
+
+---
+
+**Su (Slack to ArkOne Hiring Team):**  
+Hi Team,  
+
+Richard Hendricks has requested the top 3 profiles for each technical role. Let’s finalize the shortlist and prepare interview schedules.  
+
+**Next Steps:**  
+1. Finalize candidate shortlist by EOD.  
+2. Share profiles with Richard.  
+3. Schedule interviews for tomorrow.  
+
+Best regards,  
+Su  
+
+---
+
+**Reply from Jared Dunn (via Slack):**  
+Su, make sure the profiles are aligned with the cultural values of Pied Piper. Richard gets nervous if candidates seem too corporate.  
+
+---
+
+**Reply from Dinesh Chugtai (via Slack):**  
+Su, if you find someone who uses Go but hates Python, just hire them. No interview needed.  
+
+---
+
+### **Use Case 2: Scaling Operations - Non-Technical Roles**
+
+**[Platform: Teams Notification to ArkOne Hiring Team, Email to Monica Hall (Investor)]**
+
+**Su (Teams to Hiring Team):**  
+Hi Team,  
+
+We’re scaling Pied Piper’s non-technical teams! **Roles include:**  
+- Marketing Manager.  
+- Sales Representative.  
+- HR Coordinator.  
+
+We’ve identified 10 promising candidates. Let’s ensure the interviews are completed by Friday to meet our 7-day hiring goal.  
+
+Tracking Link: [https://arkone.ai/pied-piper/hiring-progress](https://arkone.ai/pied-piper/hiring-progress).  
+
+Best regards,  
+Su  
+
+---
+
+**Reply from Monica Hall (via email):**  
+Hi Su,  
+
+Thanks for the update. Make sure the Marketing Manager has experience with B2B SaaS campaigns. Also, the HR Coordinator must align with Pied Piper’s dynamic work environment.  
+
+Best,  
+Monica  
+
+---
+
+**Reply from Gilfoyle (via Teams):**  
+Su, just hire someone who doesn’t send emails with Comic Sans fonts. That’s my only criteria for Marketing.  
+
+---
+
+**Su (Reply to Monica Hall via email):**  
+Hi Monica,  
+
+Thank you for your input. I’ve updated the candidate evaluation criteria for the Marketing Manager and HR Coordinator roles. I’ll ensure we prioritize candidates with relevant SaaS experience and adaptability for a fast-paced environment.  
+
+Best regards,  
+Su  
+
+---
+
+### **Use Case 3: Team Onboarding and Management**
+
+**[Platform: Email to New Hires, Teams Notification to Pied Piper Leadership]**
+
+**Su (Email to New Hires):**  
+**Subject:** Welcome to Pied Piper!  
+
+Dear Team,  
+
+Congratulations on joining **Pied Piper**! We’re thrilled to have you onboard.  
+
+**Next Steps:**  
+1. **Onboarding Session:** Monday, December 18, 2024, at 10:00 AM IST ([Join Here](https://onboard.arkone.ai/pied-piper/onboarding-session)).  
+2. **Documentation:** Please upload your joining documents here: [https://onboard.arkone.ai/pied-piper/documents](https://onboard.arkone.ai/pied-piper/documents).  
+3. **Workspace Setup:** Your IT access will be provisioned by the end of this week.  
+
+Let me know if you have any questions.  
+
+Best regards,  
+Su  
+Onboarding Specialist  
+ArkOne  
+
+---
+
+**Su (Teams to Pied Piper Leadership):**  
+Hi Team,  
+
+All new hires have been onboarded successfully. Here’s a quick summary:  
+- **Technical Roles:** 3 hired (Backend Engineer, Frontend Developer, DevOps).  
+- **Non-Technical Roles:** 3 hired (Marketing Manager, Sales Representative, HR Coordinator).  
+
+Would you like me to schedule a virtual team introduction next week?  
+
+---
+
+**Reply from Richard Hendricks (Teams):**  
+Yes, Su. Let’s make it casual but structured. Gilfoyle, no scaring the new hires.  
+
+---
+
+**Reply from Jared Dunn (Teams):**  
+Su, please ensure the team introduction includes a segment on Pied Piper’s vision and values. It’s important to align everyone from Day 1.  
+
+---
+
+**Reply from Gilfoyle (Teams):**  
+I’ll be there, but I refuse to turn on my camera. The new hires don’t need to know what brilliance looks like yet.  
+
+---
+
+### **Use Case 4: Retention & Engagement**
+
+**[Platform: Email to Employees, Teams Notification to ArkOne Engagement Team]**
+
+**Su (Email to Employees):**  
+**Subject:** Your Feedback Matters!  
+
+Dear Team,  
+
+We’re committed to making your journey at **Pied Piper** exceptional. Please take a moment to share your feedback about your first week here: [https://feedback.arkone.ai/pied-piper/onboarding-survey](https://feedback.arkone.ai/pied-piper/onboarding-survey).  
+
+Your insights will help us improve and create a better experience for everyone.  
+
+Best regards,  
+Su  
+Engagement Specialist  
+ArkOne  
+
+---
+
+**Reply from Jared Dunn (Teams):**  
+Su, please summarize the survey results once they’re in. Also, highlight any action items that need urgent attention.  
+
+---
+
+**Reply from Monica Hall (Teams):**  
+Su, let’s prioritize retention strategies for the technical team. Upskilling programs would be a great way to engage them long-term.  
+
+---
+
+**Reply from Gilfoyle (Teams):**  
+I don’t need retention strategies. People who work with me never want to leave.  
+
+---
+
