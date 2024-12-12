@@ -3070,7 +3070,7 @@ Ugh, Su, can you confirm the chairs are Instagram-worthy? No one wants a boring 
 ----------
 
 ### **Use Case 8: Employee Engagement - Welcome Kits and Onboarding Experience**
-
+![welcomekit](final/welcome_kits_and_onboarding_experience.gif)
 **[Platform: Teams Notification to HR Team, Email to Employees]**
 
 **Su (Teams to HR Team, Phyllis Vance):**  
@@ -3170,7 +3170,7 @@ Su
 
 ----------
 ### **Use Case 9: Training & Development - Upskilling Employees**
-
+![upskilling](final/training_development_upskilling_employees.gif)
 **[Platform: Email to Employees, Teams Notification to Training Team]**
 
 **Su (Email to Employees):**  
